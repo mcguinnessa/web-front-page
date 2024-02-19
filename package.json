@@ -1,0 +1,23 @@
+{
+  "name": "web-front-page",
+  "version": "1.0.0",
+  "description": "Front page for home website",
+  "main": "app.js",
+  "scripts": {
+     "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcguinnessa/web-front-page.git"
+  },
+  "author": "Alex McGuinness",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcguinnessa/web-front-page/issues"
+  },
+  "homepage": "https://github.com/mcguinnessa/web-front-page#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+
